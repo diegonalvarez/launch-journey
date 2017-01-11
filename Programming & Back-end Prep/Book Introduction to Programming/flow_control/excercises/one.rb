@@ -1,0 +1,5 @@
+puts "1. (32 * 4) >= 129 RESULT = false"
+puts "2. false != !true RESULT = false"
+puts "3. true == 4 RESULT = false"
+puts "4. false == (847 == '874') RESULT = true"
+puts "5. (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false RESULT = true"

@@ -1,0 +1,1 @@
+puts "The quantity of arguments sended to the method is incorrect. calculate_product need 2 arguments numbers."

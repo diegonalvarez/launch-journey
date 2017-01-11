@@ -1,0 +1,1 @@
+puts "The error message says to me that the algorithm try to call an undefined variable. May be the variable is not in your scope. "
